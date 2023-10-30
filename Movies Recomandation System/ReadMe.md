@@ -1,4 +1,4 @@
-# Movie Recommendation System README
+# Movie Recommendation System
 
 This Python script is a basic movie recommendation system. It uses the TF-IDF vectorizer to convert text data related to movies into feature vectors and then computes cosine similarity between movies to make recommendations.
 
