@@ -1,6 +1,18 @@
 # DataHunt: Awesome-Data-Projects
 
-DataHunt is a comprehensive collection of essential resources for data science. To get started with contributing to this project, follow these steps:
+DataHunt is a comprehensive collection of essential resources for data science. 
+
+
+![Author](https://img.shields.io/badge/author-Devparihar5-orange)
+![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
+![Last Commit](https://img.shields.io/github/last-commit/Devparihar5/DataHunt-Awesome-Data-Projects)
+![Issues](https://img.shields.io/github/issues/Devparihar5/DataHunt-Awesome-Data-Projects)
+![Stars GitHub](https://img.shields.io/github/stars/Devparihar5/DataHunt-Awesome-Data-Projects)
+![Language](https://img.shields.io/github/languages/top/Devparihar5/DataHunt-Awesome-Data-Projects)
+![Size](https://img.shields.io/github/repo-size/Devparihar5/DataHunt-Awesome-Data-Projects)
+
+
+To get started with contributing to this project, follow these steps:
 
 ## Installation
 
