@@ -1,4 +1,4 @@
-# DataHunt: The Collection of Data with Science
+# DataHunt: Awesome-Data-Projects
 
 DataHunt is a comprehensive collection of essential resources for data science. To get started with contributing to this project, follow these steps:
 
