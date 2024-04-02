@@ -19,7 +19,7 @@ To get started with contributing to this project, follow these steps:
 1. **Clone the Repository:**
    Clone the DataHunt repository to your local machine using the following command:
    ```sh
-   git clone https://github.com/Devparihar5/DataHunt.git
+   git clone https://github.com/Devparihar5/DataHunt-Awesome-Data-Projects.git
    ```
 
 2. **Start a New Branch:**
@@ -35,14 +35,14 @@ Click the "Star" button in the top-right corner to show your support for the pro
 
 ### 2. Fork it :fork_and_knife:
 
-Fork the DataHunt repository to create your own copy. You can do this by clicking the "Fork" button on the [DataHunt GitHub page](https://github.com/Devparihar5/DataHunt).
+Fork the DataHunt repository to create your copy. You can do this by clicking the "Fork" button on the [DataHunt GitHub page](https://github.com/Devparihar5/DataHunt-Awesome-Data-Projects.git).
 
 ### 3. Clone it :busts_in_silhouette:
 
 Use the following command to clone the repository to your local machine:
 
 ```sh
-$ git clone https://github.com/Your_Username/DataHunt.git
+$ git clone https://github.com/Your_Username/DataHunt-Awesome-Data-Projects.git
 ```
 
 Navigate to the DataHunt folder using the `cd` command.
@@ -53,8 +53,8 @@ Make sure your local copy has a reference to your forked remote repository by ru
 
 ```sh
 $ git remote -v
-origin  https://github.com/Your_Username/DataHunt.git (fetch)
-origin  https://github.com/Your_Username/DataHunt.git (push)
+origin  https://github.com/Your_Username/DataHunt-Awesome-Data-Projects.git (fetch)
+origin  https://github.com/Your_Username/DataHunt-Awesome-Data-Projects.git (push)
 ```
 
 ### 5. Sync it :recycle:
@@ -111,7 +111,7 @@ $ git push -u origin BranchName
 
 ## Contribution Rules📚:
 
-- You are allowed to make pull requests that break the rules; we accept them!
+- You can make pull requests that break the rules; we accept them!
 - Do NOT add any build steps, e.g., npm install (we want to keep this a simple static site).
 - Do NOT remove other content.
 - Styling and code can be of any style or quality, as long as it works.
